@@ -8,6 +8,8 @@
 [actions-badge]: https://github.com/jonasrichard/ironmq/workflows/CI/badge.svg
 [actions-url]: https://github.com/jonasrichard/ironmq/actions?query=workflow%3ACI
 
+**Project is moved/renamed** go to [metalmq](https://github.com/jonasrichard/metalmq) repo
+
 ## Build and run
 
 `ironmq` is under development, it is not feature complete but you can try and run with cargo run.
